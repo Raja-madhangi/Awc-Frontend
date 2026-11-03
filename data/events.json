@@ -1,0 +1,38 @@
+[
+  {
+    "id": "e1",
+    "title": "Weekly Feeding Round",
+    "image": "/assets/images/feed_campus.png",
+    "date": "Every Weekend (Updated by Admin)",
+    "time": "6:00 AM - 7:30 AM",
+    "location": "PSG Tech Campus (Hostel Quadrangle & South Gate)",
+    "description": "Join our morning feeding volunteers providing nutritious warm meals for over 40 resident campus animals."
+  },
+  {
+    "id": "e2",
+    "title": "Anti-Rabies Vaccination Camp",
+    "image": "/assets/images/rescue_vet.png",
+    "date": "Upcoming (Admin will announce exact date)",
+    "time": "9:00 AM - 2:00 PM",
+    "location": "GreenPaws Clinic & PSG Tech Helpdesk",
+    "description": "Free anti-rabies vaccination, health check-up and deworming drive in partnership with local veterinarians."
+  },
+  {
+    "id": "e3",
+    "title": "Tree Plantation & Green Sanctuary Drive",
+    "image": "/assets/images/plantation_green.png",
+    "date": "Upcoming (Admin will announce exact date)",
+    "time": "7:00 AM - 11:30 AM",
+    "location": "PSG Tech South Gate & Botanical Reserve",
+    "description": "Planting shade saplings along hostel paths to create cooling shelters for campus animals and birds."
+  },
+  {
+    "id": "e4",
+    "title": "Pet Adoption & Rehoming Fair",
+    "image": "/assets/images/adoption_care.png",
+    "date": "Upcoming (Admin will announce exact date)",
+    "time": "10:00 AM - 4:00 PM",
+    "location": "Open Air Grounds, PSG Tech",
+    "description": "Assisting with adoption dossiers and screening loving forever homes for rescued puppies and kittens."
+  }
+]

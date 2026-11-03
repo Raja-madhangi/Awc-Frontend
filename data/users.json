@@ -1,0 +1,28 @@
+[
+  {
+    "id": "u-1793683840628",
+    "name": "Muthu Kumar",
+    "email": "muthu.23l205@psgtech.ac.in",
+    "password": "muthupassword",
+    "register_no": "23L205",
+    "department": "Biotechnology",
+    "year": "2nd Year (Batch 2025-2029)",
+    "phone": "9876543210",
+    "role": "student",
+    "token": "token-y586jstqmg-1793683840628",
+    "created_at": "2026-11-03T05:30:40.628Z"
+  },
+  {
+    "id": "u-1793684537920",
+    "name": "Karthik Raja",
+    "email": "karthik.23l101@psgtech.ac.in",
+    "password": "karthikpass",
+    "register_no": "23L101",
+    "department": "Computer Science and Engineering (CSE)",
+    "year": "1st Year (Batch 2026-2030)",
+    "phone": "9876543210",
+    "role": "student",
+    "token": "token-kcomgrdrj4p-1793684537920",
+    "created_at": "2026-11-03T05:42:17.920Z"
+  }
+]

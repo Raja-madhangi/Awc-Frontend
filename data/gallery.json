@@ -1,0 +1,51 @@
+[
+  {
+    "id": "g1",
+    "image": "/assets/images/rescue_vet.png",
+    "caption": "AWC team at Humane Animal Society partnership drive",
+    "description": "Collaborative animal shelter visit, sanitizing animal pens, and arranging adoption dossiers for rehabilitated indie dogs.",
+    "category": "Events"
+  },
+  {
+    "id": "g2",
+    "image": "/assets/images/feed_campus.png",
+    "caption": "Feeding drive — campus hostel stray animals",
+    "description": "Daily early morning food distribution across Hostel Q block, A/B/C/D blocks, and PSG Tech canteen lanes.",
+    "category": "Rescue"
+  },
+  {
+    "id": "g3",
+    "image": "/assets/images/plantation_green.png",
+    "caption": "Shelter cleaning & hydration sanitation drive",
+    "description": "Routine washing and refilling of terracotta water bowls across the Sports Ground and South Gate gardens.",
+    "category": "Events"
+  },
+  {
+    "id": "g4",
+    "image": "/assets/images/adoption_care.png",
+    "caption": "HAS partner animal rehabilitation center visit",
+    "description": "Hands-on medical assistance and fostering post-surgery recovery for campus-rescued kittens and injured pups.",
+    "category": "Rescue"
+  },
+  {
+    "id": "g5",
+    "image": "/assets/images/about_shelter_dogs_1784629418108.jpg",
+    "caption": "Student volunteers with treated campus dog",
+    "description": "Successful treatment and recovery of fractured leg for campus indie dog 'Shadow', now back safely on campus grounds.",
+    "category": "Dogs"
+  },
+  {
+    "id": "g6",
+    "image": "/assets/images/feed_campus.png",
+    "caption": "Care and feeding for local rescued cattle",
+    "description": "Emergency fodder and fresh water provided to dehydrated stray cattle wandering near Peelamedu traffic signals.",
+    "category": "Rescue"
+  },
+  {
+    "id": "g7",
+    "image": "/assets/images/plantation_green.png",
+    "caption": "Campus canopy and green sanctuary plantation",
+    "description": "Planted shade saplings along Hostel Road to provide cooling shelters for birds, squirrels, and stray animals.",
+    "category": "Events"
+  }
+]

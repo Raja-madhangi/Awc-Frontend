@@ -1,0 +1,27 @@
+[
+  {
+    "id": "reg-1",
+    "event_id": "e1",
+    "event_title": "Weekly Feeding Round",
+    "user_id": "u-sample",
+    "name": "Pooja Ramesh",
+    "email": "pooja.r@psgtech.ac.in",
+    "phone": "9842109876",
+    "register_no": "23L145",
+    "department": "Information Technology",
+    "year": "Second Year",
+    "answers": {
+      "preferred_slot": "Weekday Batch (6:00 AM - 7:15 AM)",
+      "campus_zone": "Hostel Quadrangle & Canteen Area",
+      "prior_experience": "Yes, I regularly feed stray cats near my hostel block.",
+      "available_days": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ],
+      "emergency_notes": "Comfortable carrying food buckets and biscuits."
+    },
+    "status": "confirmed",
+    "created_at": "2026-07-21T07:30:00.000Z"
+  }
+]

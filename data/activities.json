@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "num": "01",
+    "tag": "Daily · Campus-wide",
+    "title": "Campus Feeding",
+    "image": "/assets/images/feed_campus.png",
+    "description": "Every morning, before the first lecture bell, our volunteers walk the campus with warm meals for our four-legged residents."
+  },
+  {
+    "id": "2",
+    "num": "02",
+    "tag": "On-call · City-wide",
+    "title": "Emergency Rescue",
+    "image": "/assets/images/rescue_vet.png",
+    "description": "A 24/7 rescue line for injured strays across Coimbatore — trained volunteers, first-aid kits, and a network of partner clinics."
+  },
+  {
+    "id": "3",
+    "num": "03",
+    "tag": "Year-round",
+    "title": "Pet Adoption",
+    "image": "/assets/images/adoption_care.png",
+    "description": "Rehabilitated dogs, cats and birds waiting for a forever home. Every adoption is a promise kept for life."
+  },
+  {
+    "id": "4",
+    "num": "04",
+    "tag": "Monthly",
+    "title": "Vaccination Camps",
+    "image": "/assets/images/rescue_vet.png",
+    "description": "Free anti-rabies and preventive care camps in partnership with local veterinarians — because prevention is protection."
+  },
+  {
+    "id": "5",
+    "num": "05",
+    "tag": "Semester",
+    "title": "Awareness Programs",
+    "image": "/assets/images/about_shelter_dogs_1784629418108.jpg",
+    "description": "Workshops, campus talks and street theatre — because coexistence begins with understanding."
+  },
+  {
+    "id": "6",
+    "num": "06",
+    "tag": "Seasonal",
+    "title": "Tree Plantation",
+    "image": "/assets/images/plantation_green.png",
+    "description": "Every rescue needs a home. Every home needs a canopy. We plant, we water, we nurture."
+  }
+]

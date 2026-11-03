@@ -1,0 +1,52 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="awcBgGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#284e38" />
+      <stop offset="100%" stop-color="#15291d" />
+    </radialGradient>
+    <linearGradient id="awcGoldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f3b592" />
+      <stop offset="100%" stop-color="#e89670" />
+    </linearGradient>
+    <linearGradient id="awcGoldBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#eedec2" />
+      <stop offset="50%" stop-color="#e89670" />
+      <stop offset="100%" stop-color="#c87850" />
+    </linearGradient>
+    <path id="awcTextCircleTop" d="M 28 100 A 72 72 0 1 1 172 100" fill="none" />
+    <path id="awcTextCircleBottom" d="M 172 100 A 72 72 0 0 1 28 100" fill="none" />
+  </defs>
+
+  <circle cx="100" cy="100" r="97" fill="url(#awcBgGrad)" stroke="url(#awcGoldBorder)" stroke-width="4" />
+  <circle cx="100" cy="100" r="89" fill="none" stroke="#efe6cf" stroke-width="1" stroke-dasharray="3 3" opacity="0.6" />
+  <circle cx="100" cy="100" r="68" fill="#1b3425" stroke="url(#awcGoldBorder)" stroke-width="2.5" />
+
+  <text fill="#efe6cf" font-size="13.2" font-weight="700" letter-spacing="2.8" font-family="system-ui, -apple-system, sans-serif">
+    <textPath href="#awcTextCircleTop" startOffset="50%" text-anchor="middle">
+      ANIMAL WELFARE CLUB
+    </textPath>
+  </text>
+
+  <text fill="#e89670" font-size="12" font-weight="700" letter-spacing="4.5" font-family="system-ui, -apple-system, sans-serif">
+    <textPath href="#awcTextCircleBottom" startOffset="50%" text-anchor="middle">
+      ★ PSG TECH ★
+    </textPath>
+  </text>
+
+  <circle cx="100" cy="102" r="63" fill="#14271c" />
+  <ellipse cx="100" cy="102" rx="42" ry="38" fill="url(#awcGoldGrad)" opacity="0.12" />
+
+  <path d="M 52 132 C 65 146, 82 152, 100 152 C 118 152, 135 146, 148 132 C 144 140, 126 156, 100 156 C 74 156, 56 140, 52 132 Z" fill="#e89670" />
+
+  <path d="M 72 136 C 72 128, 73 118, 76 112 C 78 108, 80 102, 80 96 C 80 92, 78 88, 75 85 C 76 83, 80 82, 85 85 C 88 87, 91 91, 92 95 C 96 95, 99 97, 101 100 C 102 105, 103 112, 103 118 C 103 124, 102 130, 99 136 Z" fill="#efe6cf" />
+
+  <path d="M 103 136 C 103 128, 104 116, 109 110 C 112 106, 114 102, 114 96 C 113 93, 110 92, 109 88 C 112 87, 116 88, 119 92 C 121 90, 126 91, 128 94 C 127 98, 123 103, 122 108 C 124 114, 126 122, 125 136 Z" fill="#f4d4bd" />
+
+  <g transform="translate(100, 72) scale(0.68)">
+    <path d="M 0 5 C -11 -7, -22 6, -11 18 C -5 24, 0 30, 0 30 C 0 30, 5 24, 11 18 C 22 6, 11 -7, 0 5 Z" fill="url(#awcGoldGrad)" />
+    <ellipse cx="-16" cy="-4" rx="4.5" ry="6.5" transform="rotate(-25 -16 -4)" fill="#e89670" />
+    <ellipse cx="-6" cy="-14" rx="4.5" ry="7" transform="rotate(-8 -6 -14)" fill="#e89670" />
+    <ellipse cx="6" cy="-14" rx="4.5" ry="7" transform="rotate(8 6 -14)" fill="#e89670" />
+    <ellipse cx="16" cy="-4" rx="4.5" ry="6.5" transform="rotate(25 16 -4)" fill="#e89670" />
+  </g>
+</svg>
